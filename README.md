@@ -36,8 +36,10 @@ Passionate about building scalable applications and optimizing backend performan
 
 ### 📌 Featured Projects
 - 🚀 **[Space Mission Analysis Tool](#)** - Analyzing SpaceX missions with real-time data.
-- 📡 **[Real-Time Chat App](#)** - Built with **Socket.io, Redis, and MongoDB**.
-- 🛍️ **[E-commerce Backend](#)** - Scalable API for product management.
+- 🏥 **[MedFit](#)** - A platform to manage medicine schedules, chat with an AI doctor, and track health.
+- 🌍 **[Translator](#)** - A tool that helps users translate their words into multiple languages.
+- 🏠 **[Home Management System](#)** - Manage rooms and electronic devices efficiently.
+- 👨‍💼 **[Employee Management System](#)** - Manage employee data, including file uploads and tracking.
 
 ---
 
@@ -47,9 +49,8 @@ Passionate about building scalable applications and optimizing backend performan
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-sharma-2a80b52b7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](dev-Lokesh-dev.github.io)
 
 ---
 
