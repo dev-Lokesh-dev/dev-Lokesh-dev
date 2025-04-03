@@ -35,11 +35,11 @@ Passionate about building scalable applications and optimizing backend performan
 ---
 
 ### 📌 Featured Projects
-- 🚀 **[Space Mission Analysis Tool](#)** - Analyzing SpaceX missions with real-time data.
 - 🏥 **[MedFit](https://euphonious-cendol-a8f9f3.netlify.app/)** - A platform to manage medicine schedules, chat with an AI doctor, and track health.
-- 🌍 **[Translator](#)** - A tool that helps users translate their words into multiple languages.
-- 🏠 **[Home Management System](#)** - Manage rooms and electronic devices efficiently.
-- 👨‍💼 **[Employee Management System](#)** - Manage employee data, including file uploads and tracking.
+- 🌍 **[Translator](https://musical-crumble-8c6c59.netlify.app/)** - A tool that helps users translate their words into multiple languages.
+- 🏠 **[Home Management System](https://vsmarthomes.netlify.app/)** - Manage rooms and electronic devices efficiently.
+- 👨‍💼 **[Employee Management System](#https://keen-rabanadas-1d9b33.netlify.app/)** - Manage employee data, including file uploads and tracking.
+- 🚀 **[Space Mission Analysis Tool](#)** - Analyzing SpaceX missions with real-time data.
 
 ---
 
