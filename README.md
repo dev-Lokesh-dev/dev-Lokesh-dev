@@ -44,7 +44,7 @@ Passionate about building scalable applications and optimizing backend performan
 ---
 
 ### 📊 GitHub Stats
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Lokesh-dev&show_icons=true&theme=radical)
 
 ---
 
