@@ -1,4 +1,5 @@
 ### Hi there, I'm Lokesh! 👋
+![Profile views](https://komarev.com/ghpvc/?username=dev-Lokesh-dev&color=blue)
 
 🚀 **Full-Stack Developer | Backend Specialist**  
 Passionate about building scalable applications and optimizing backend performance.
