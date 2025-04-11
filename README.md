@@ -7,7 +7,7 @@ Passionate about building scalable applications and optimizing backend performan
 ---
 
 ### 🚀 About Me
-- 🔥 **Specialized in Backend Development** with **Node.js, Express, MongoDB, and SQL**
+- 🔥 **Specialized in Backend Development** with **Node.js, Express, MongoDB**
 - 🛠️ Experienced in **real-time systems** using **Socket.io and Redis**
 - 🎯 Strong problem-solving and system design skills
 - 📡 Enthusiast of **API development, performance optimization, and security best practices**
